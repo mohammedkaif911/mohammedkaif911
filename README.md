@@ -37,7 +37,7 @@ Final-year CS student. One self-designed **34-week / 204-day roadmap**. Zero boo
 | | Achievement |
 |:--:|:--|
 | 🟢 | **HackerRank** — Python ⭐⭐⭐ · Problem Solving ⭐⭐ |
-| ⚔️ | **LeetCode** — 39 problems solved (28 Easy · 11 Medium) · multiple **0 ms / 100% runtime** solutions |
+| ⚔️ | **LeetCode** — 40 problems solved (27 Easy · 13 Medium) · multiple **0 ms / 100% runtime** solutions |
 | 📓 | **33 roadmap days documented publicly** — terminal logs, runbooks, scripts, DSA journals |
 | 🎮 | **Creator of MK-WARGAME** — an original text-based Python security wargame (port checks, decryption, signal handling) |
 | 🔧 | **SRE sandbox toolkit** — port scanner & auditor, encrypted vault, FinOps cost optimizer, system monitor |
@@ -71,9 +71,9 @@ Final-year CS student. One self-designed **34-week / 204-day roadmap**. Zero boo
 
 | ⚔️ LeetCode | 🟢 HackerRank | 📓 Journey | 🐍 Languages |
 |:--:|:--:|:--:|:--:|
-| [**39 solved** — 28 Easy · 11 Medium](https://leetcode.com/u/mohammed_kaif313/) | Python ⭐⭐⭐ · Problem Solving ⭐⭐ | Day **33**/204 · Week 6/34 | Python · Bash · JavaScript |
+| [**39 solved** — 27 Easy · 13 Medium](https://leetcode.com/u/mohammed_kaif313/) | Python ⭐⭐⭐ · Problem Solving ⭐⭐ | Day **33**/204 · Week 6/34 | Python · Bash · JavaScript |
 
-## 📈 LIVE STATS — no curation, just truth
+## 📈 LIVE STATS
 
 <div align="center">
 
