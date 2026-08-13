@@ -67,15 +67,20 @@ Final-year CS student. One self-designed **34-week / 204-day roadmap**. Zero boo
 > 📡 **Incoming — earned on the roadmap, not claimed early:** AWS → Docker → Kubernetes → Terraform → ArgoCD → Prometheus/Grafana
 
 ---
+## 📈 THE NUMBERS
+
+| ⚔️ LeetCode | 🟢 HackerRank | 📓 Journey | 🐍 Languages |
+|:--:|:--:|:--:|:--:|
+| [**39 solved** — 28 Easy · 11 Medium](https://leetcode.com/u/mohammed_kaif313/) | Python ⭐⭐⭐ · Problem Solving ⭐⭐ | Day **33**/204 · Week 6/34 | Python · Bash · JavaScript |
 
 ## 📈 LIVE STATS — no curation, just truth
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedkaif911&theme=tokyonight&hide_border=true&show_icons=true" alt="stats" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedkaif911&theme=tokyonight&hide_border=true" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkaif911&theme=tokyonight&hide_border=true&layout=compact" alt="langs" />
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedkaif911&theme=onedark&no-frame=true&column=7&row=1" alt="trophies" />
+
+
 
 </div>
 
