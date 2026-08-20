@@ -21,12 +21,12 @@ Final-year CS student. One self-designed **34-week / 204-day roadmap**. Zero boo
 
 <div align="center">
 
-**ROADMAP STATUS — Week 6 / 34 · Phase 2: Core Cloud + Docker**
+**ROADMAP STATUS — Week 7 / 34 · Phase 2: Core Cloud + Docker**
 
 
 | ✅ CONQUERED | 🚧 CURRENT BATTLE | 🔜 NEXT TARGETS |
 |:--|:--|:--|
-| Linux internals · Python · Bash · Git · Networking (OSI → DNS → Load Balancers → TLS) | REST APIs · Python `requests` · Linked Lists | AWS · Docker · Kubernetes · Terraform · CI/CD · Observability · Capstone |
+| Linux internals · Python · Bash · Git · Networking (OSI → DNS → Load Balancers → TLS) REST APIs · Python `requests`|  AWS |  Docker · Kubernetes · Terraform · CI/CD · Observability · Capstone |
 
 </div>
 
@@ -37,8 +37,8 @@ Final-year CS student. One self-designed **34-week / 204-day roadmap**. Zero boo
 | | Achievement |
 |:--:|:--|
 | 🟢 | **HackerRank** — Python ⭐⭐⭐ · Problem Solving ⭐⭐ |
-| ⚔️ | **LeetCode** — 42 problems solved (28 Easy · 14 Medium) · multiple **0 ms / 100% runtime** solutions |
-| 📓 | **33 roadmap days documented publicly** — terminal logs, runbooks, scripts, DSA journals |
+| ⚔️ | **LeetCode** — 51 problems solved (33 Easy · 18 Medium) · multiple **0 ms / 100% runtime** solutions |
+| 📓 | **37 roadmap days documented publicly** — terminal logs, runbooks, scripts, DSA journals |
 | 🎮 | **Creator of MK-WARGAME** — an original text-based Python security wargame (port checks, decryption, signal handling) |
 | 🔧 | **SRE sandbox toolkit** — port scanner & auditor, encrypted vault, FinOps cost optimizer, system monitor |
 
@@ -71,7 +71,7 @@ Final-year CS student. One self-designed **34-week / 204-day roadmap**. Zero boo
 
 | ⚔️ LeetCode | 🟢 HackerRank | 📓 Journey | 🐍 Languages |
 |:--:|:--:|:--:|:--:|
-| [**42 solved** — 28 Easy · 14 Medium](https://leetcode.com/u/mohammed_kaif313/) | Python ⭐⭐⭐ · Problem Solving ⭐⭐ | Day **33**/204 · Week 6/34 | Python · Bash · JavaScript |
+| [**51 solved** — 33 Easy · 18 Medium](https://leetcode.com/u/mohammed_kaif313/) | Python ⭐⭐⭐ · Problem Solving ⭐⭐ | Day **37**/204 · Week 7/34 | Python · Bash · JavaScript |
 
 ## 📈 LIVE STATS
 
