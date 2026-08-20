@@ -75,21 +75,13 @@ Final-year CS student. One self-designed **34-week / 204-day roadmap**. Zero boo
 
 ## 📈 LIVE STATS
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="49%"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=mohammedkaif911&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Mohammed Kaif's GitHub stats" /></td>
+    <td width="49%"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammedkaif911&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Mohammed Kaif's Top Languages" /></td>
+  </tr>
+</table>
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedkaif911&theme=tokyonight&hide_border=true" alt="streak" />
-
-
-
-</div>
-
----
-
-<div align="center">
-
-> *"If you hire for proof of work over pedigree — let's talk."*
-
-**📫 mohammedkaif91129@gmail.com · Bengaluru, India**
-
-</div>
+<p align="center">
+  <img width="85%" src="https://github-readme-streak-stats-eight.vercel.app?user=mohammedkaif911&theme=dark&hide_border=true" alt="Mohammed Kaif's Streak stats" />
+</p>
